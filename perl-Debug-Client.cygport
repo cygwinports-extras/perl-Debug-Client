@@ -1,0 +1,10 @@
+CPAN_AUTHOR=bowtie
+inherit perl
+
+NAME="perl-Debug-Client"
+VERSION=0.20
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl debugger for Padre"
+DESCRIPTION="The prime use of this module is to provide debugger functionality
+for the Padre IDE."
