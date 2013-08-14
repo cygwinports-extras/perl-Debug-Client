@@ -2,7 +2,7 @@ CPAN_AUTHOR=bowtie
 inherit perl
 
 NAME="perl-Debug-Client"
-VERSION=0.20
+VERSION=0.29
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl debugger for Padre"
