@@ -3,8 +3,10 @@ inherit perl
 
 NAME="perl-Debug-Client"
 VERSION=0.29
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl debugger for Padre"
 DESCRIPTION="The prime use of this module is to provide debugger functionality
 for the Padre IDE."
+
+ARCH=noarch
